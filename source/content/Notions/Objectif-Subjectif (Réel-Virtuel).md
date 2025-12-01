@@ -1,0 +1,3 @@
+L'image $A'$ d'un point $A$ à travers une **[[Lentille mince#Vergence|lentille convergente]]** est **subjective/virtuelle** car il ne s'y concentre pas d'énergie lumineuse. Ainsi, on ne peut pas faire de photographie avec une image subjective/virtuelle !
+
+Au contraire, l'image de $A$ par une **[[Lentille mince#Vergence|lentille convergente]]** est **objective/réelle**. Pour cette raison, on appelle "objectif" un système optique capable de former des images objectives.

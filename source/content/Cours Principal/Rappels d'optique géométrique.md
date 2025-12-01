@@ -31,6 +31,5 @@ __Exemple avec une lentille divergente__ :
 ![Exemple (crédit: Baptiste Desnouck)](bd_rc1234.jpg)
 
 ## Remarques
-- On utilise des échelles différentes selon les deux directions, c'est-à-dire selon les directions horizontales et verticales — évidemment, la distance d'un objet à une lentille n'est pas comparable au diamètre de la lentille. Cela permet d'éviter les erreurs de tracés.
-- L'image $A'$ d'un point $A$ à travers une lentille **divergente** est **subjective/virtuelle** car il ne s'y concentre pas d'énergie lumineuse. Ainsi, on ne peut pas faire de photographie avec une image subjective/virtuelle !
-  Au contraire, l'image de $A$ par une lentille **convergente** est **objective/réelle**. Pour cette raison, on appelle "objectif" un système optique capable de former des images objectives.
+- On utilise des échelles différentes selon les deux directions, c'est-à-dire selon les directions horizontales et verticales — évidemment, la distance d'un objet à une [[Lentille mince|lentille]] n'est pas comparable au diamètre de cette dernière. Cela permet d'éviter les erreurs de tracés.
+- On notera la notion d'image [[Objectif-Subjectif (Réel-Virtuel)|objective et subjective]].
