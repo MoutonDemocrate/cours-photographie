@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "46af4c02d0c7a1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours Principal/Appareil Photographique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Appareil Photographique"
+            }
+          },
+          {
+            "id": "556f85b338ca8ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours Principal/Appareil Photographique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Appareil Photographique"
+            }
+          },
+          {
             "id": "5946cdc04f4820aa",
             "type": "leaf",
             "state": {
@@ -36,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,12 +213,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5946cdc04f4820aa",
+  "active": "556f85b338ca8ac7",
   "lastOpenFiles": [
+    "Media/café?.png",
+    "Cours Principal/Appareil Photographique.md",
+    "Media/Café? - JDD.png",
+    "Cours Principal/Caractéristiques de l'UE.md",
+    "Media/no_media.png",
+    "Media/grrr.png",
     "Media/no_media.gif",
     "Media/ezgif.com-added-text.gif",
-    "Cours Principal/Caractéristiques de l'UE.md",
-    "Cours Principal/Appareil Photographique.md",
     "index.md",
     "category-folder/Some note.md",
     "Notions",
