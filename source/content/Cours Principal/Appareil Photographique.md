@@ -14,7 +14,7 @@ Deux éléments :
 		- viseurs sur écran
 		- viseurs *reflex*, plus fiable du point de vue colorimétrique
 		  Une caractéristique de la visée *reflex* (visée utilisée par tous les professionnels) est qu'il y a **un miroir qui pivote au moment de la prise de vue** (plutôt difficile à mettre en œuvre...)
-		  ![Un petit schéma du système *reflex*](no_media.png)
+		  ![Un petit schéma du système *reflex* (crédit: Baptiste Desnouck)](bd_schéma_reflex.jpg)
 		  mais il y a des inconvénients !
 			- encombrant
 			- lourd
@@ -24,7 +24,7 @@ Deux éléments :
 			- cela provoque aussi de légères vibrations, gênant en photographie scientifique (ex: stéréophotométrie)
 	- viseurs optiques
 		- Les viseurs optiques utilisent un système optique secondaire
-		  ![Schéma d'un viseur optique - on voit le système secondaire!](no_media.png)
+		  ![Schéma d'un viseur optique - on voit le système secondaire! (crédit: Baptiste Desnouck)](bd_schéma_viseur_optique.jpg)
 		  Cela cause une déformation géométrique appelée "parallaxe"		  ![Example de parallaxe quand l'appareil est trop proche du sujet (crédit: Paul Bourke)](https://paulbourke.net/miscellaneous/parallaxerror/9cm.jpg)
 
 ## Les 4 gammes d'appareils
@@ -44,7 +44,7 @@ Il existe trois types :
 - Obturateur à iris (désuet)
 - Obturateur à rideau
   Comporte deux rideaux opaques qui défilent devant le capteur avec un décalage $\Delta t =$ temps de pose
-  ![Schéma de l'obturateur à rideau](no_media.png)
+  ![Schéma de l'obturateur à rideau (crédit: Baptiste Desnouck)](bd_obturateur_rideau.jpg)
   L'interêt est que tous les points du capteur sont exposés à la lumière pendant la même durée $\Delta t$, mais il y a un décalage temporel entre les différents points. Cela peut causer des déformations d'objets en mouvement.
   ![Example de déformation des roues d'une voiture (crédit: Jacques Henri Lartigue)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.britannica.com%2F42%2F196342-050-02682FEC%2FGrand-Prix-ACF-Dieppe-photograph-Jacques-Henri-Lartigue-1912-Yale-University-Art-Gallery.jpg&f=1&nofb=1&ipt=b632ba090526697e2558acdf89d0d306e200063c1b79639c417398c2a72d919a)
 - Obturateur éléctronique
@@ -55,7 +55,7 @@ Il existe trois types :
 	- Permet d'atteindre des temps de pose très courts, là où les obturateurs mécaniques ne peuvent pas
 
 Les temps de pose peuvent prendre des valeurs prédéfinies :
-$$\Delta t \in [1s,\frac{1}{2}s,...,\frac{1}{100}s,...,\frac{1}{1000}s,...,\frac{1}{32000}s]$$
+$$\Delta t \in [\underbrace{1s,\frac{1}{2}s,...,\frac{1}{100}s,...,\frac{1}{1000}s}_\text{obturateurs mécanique},...,\frac{1}{32000}s]$$
 
 Il y a deux types de pose longue :
 - B : temps d'appui sur le déclencheur
